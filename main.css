@@ -1,0 +1,17 @@
+html, body, ol, ul, li, a, p, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;  
+}
+.form {
+    border-radius: 5px;
+    border: 1px solid #000000;
+    height: 250px;
+    text-align: center;
+    width: 250px;
+    margin: 150px auto;
+}
+.form-group {
+    text-align: center;
+}
+.form input[type="submit"] {
+    width: 85%;
+}
